@@ -1,4 +1,4 @@
-# <Module 1 Challenge: Refactoring code for accessibility and cleanliness>
+# Module 1 Challenge: Refactoring code for accessibility and cleanliness
 
 ## Description
 
