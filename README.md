@@ -2,11 +2,15 @@
 
 ## Description
 
-This project is the result of my practicing refactoring code to be cleaner and more accessible. 
+This project is the result of my practicing refactoring code to be cleaner and more accessible.
+
 I was provided with sample code, which created a simple website; while it was functional, there were a number of issues that needed solving.
+
 For instance, many of the images did not have alt text, which is an accessibility issue. In addition, the code itself was not structured and organized logically. 
+
 I used the WAVE accessibility evaluation tool to go through and fix the accessibility errors, then went through the code and refactored it, cleaned it up, and added comments
 to clarify what I had done and to organize the document.
+
 This project enabled me to learn several things: how to use WAVE to evaluate my site's accessibility, good accessibility practices, how to organize and refactor code for 
 cleanliness (for instance, merging several redundant classes into one class), and what coding tasks might look like on the job.
 
@@ -14,13 +18,16 @@ cleanliness (for instance, merging several redundant classes into one class), an
 ## Usage
 
 
-Go to [insert URL here!] to look at the site.
+
+Go  [here](https://otekolste.github.io/horiseon-code-refactor/) to look at the site.
 If you have the WAVE accessibility tool evaluate the site, you can install it as a Chrome extension and click on the W symbol in the upper-right corner.
+
 You can also click on each of the links in the header to be directed to the relevant section.
 
 ## Credits
 
 Base code was provided by edX Boot Camps LLC.
+
 WAVE Evaluation Tool: https://wave.webaim.org/
 
 ## License
