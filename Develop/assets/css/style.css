@@ -37,7 +37,9 @@ p {
     color: #d9dcd6;
 }
 
-.header section {
+/*Applies to the 3 links in the header*/
+
+.header #nav-links {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -45,16 +47,14 @@ p {
     font-size: 20px;
 }
 
-.header section ul {
-    list-style-type: none;
-}
-
-.header section ul li {
+.header a{
     display: inline-block;
     margin-left: 25px;
 }
 
-.hero {
+/*  Applies to the large image at the very top (under the header)*/
+
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -63,7 +63,7 @@ p {
     background-position: center;
 }
 
-/* IMAGE FLOATS */
+/* IMAGE FLOAT SETTINGS */
 
 .float-left {
     float: left;
